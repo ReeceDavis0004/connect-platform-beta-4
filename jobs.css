@@ -71,3 +71,15 @@
 	color: var(--tt-red);
 	border-bottom-color: var(--tt-red);
 }
+
+.login-button {
+    background-color: #3A3B3C;
+	color: var(--text-primary);
+	border: 1px solid var(--border-color);
+    display: flex;
+	align-items: center;
+	gap: .5rem;
+	justify-self: end;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
